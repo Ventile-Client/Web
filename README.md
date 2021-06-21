@@ -1,2 +1,2 @@
-"# Ventile Website" 
-"The official code for Ventile's Website!" 
+# Ventile Website"
+The official code for Ventile's Website!
